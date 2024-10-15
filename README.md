@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL]()
-- Live Site URL: [Live Site URL]()
+- Live Site URL: [Live Site URL](https://patejo-coder.github.io/stats-preview-card-component-main/)
 
 ## My process
 
